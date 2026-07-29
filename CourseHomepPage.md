@@ -1,5 +1,5 @@
 
-#Advancing Genomics and Training Leadership - Africa
+# Advancing Genomics and Training Leadership - Africa
 
 [Wellcome Connecting Science GitHub Home Page](https://github.com/WCSCourses) <br /> 
 [Wellcome Connecting Science Website](https://coursesandconferences.wellcomeconnectingscience.org/)
