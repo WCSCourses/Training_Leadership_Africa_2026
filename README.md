@@ -1,32 +1,50 @@
-<img src="https://coursesandconferences.wellcomeconnectingscience.org/wp-content/themes/wcc_courses_and_conferences/dist/assets/svg/logo.svg" width="300" height="50"> 
 
-# Add Course Title
+# Advancing Genomics and Training Leadership - Africa
 
-### Add Course Dates, Add Course Location
+### 25–26 September 2026, Eylim Beach Resort, Grand-Bassam, Côte d'Ivoire
 
-[Wellcome Connecting Science Course Run Website Link](Add link here) <br /> 
-[Course Time Table YEAR](Add link here) <br /> 
-[Course Informatics Guide](Add link here)
+[Course Run Website Link](https://coursesandconferences.wellcomeconnectingscience.org/event/advancing-genomics-and-training-leadership-africa-20260925/) <br /> 
+[Course Time Table 2026]() <br /> 
+[Course Informatics Guide]()
 
 ### Summary
 
-Add text here
+This workshop brings together clinical microbiologists, laboratory scientists, and emerging trainers from across Africa to strengthen capacity in genomics training for clinical microbiology and public health. The programme is designed to equip participants with the skills to independently design sustainable genomics training initiatives that are tailored to local contexts and resource settings. Through an experiential, peer-learning approach, participants will work collaboratively to create practical outputs that can be implemented within their institutions and contexts.
 
-### Target Audience
+The curriculum follows a progressive learning pathway that moves from understanding training needs and competency frameworks to designing modular curricula, strengthening facilitation and delivery skills, and planning scale-up systems. Participants will learn how to apply education principles, adapt training materials across different settings, and develop learner-centred activities.
 
-Add text here
+**What will this event cover?**
 
-### Learning outcomes
+By the end of the workshop, participants will have designed a modular training package and developed a trainer network that supports the strengthening of African-led, scalable, and sustainable genomics training initiatives in clinical microbiology.
 
-Add text here
+**Main topics covered:**
 
-### Programme
+- Competency-based training design for clinical microbiology and public health.
+- Development of modular and adaptable genomics training curricula.
+- Learner-centred facilitation and training delivery approaches.
+- Sustainable scaling, peer-mentorship, and regional trainer network development.
 
-Add text here
+The course content will be delivered in English with additional support for French and Portuguese speakers.
 
-### Course overview
+**Who should attend this course?**
 
-Add text here
+This workshop targets experienced clinical microbiology and public health professionals with genomic exposure who are positioned to become national trainers and leaders, enabling locally led, scalable genomics training initiatives across Africa.
+
+This workshop is designed for mid- to senior-level scientists and practitioners working at the interface of clinical microbiology, laboratory science, and public health, who are:
+
+- Actively using or planning to use genomic approaches (example: whole genome sequencing) in their work.
+- Based in national reference laboratories, public health institutes, research centres, or teaching hospitals.
+- In positions where they can influence or deliver training within their institutions or countries.
+
+### Learning Objective
+
+What will you achieve?
+
+By the end of the workshop, participants will be able to:
+
+- Design high-quality genomics training programmes, tailored to their own contexts.
+- Apply and adapt learner-centred training approaches to improve learning experiences.
+- Co-develop and sustain an African trainer network for ongoing collaboration.
 
 **Course Instructors**      
 
