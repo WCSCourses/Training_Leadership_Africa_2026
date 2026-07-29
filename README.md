@@ -53,20 +53,11 @@ By the end of the workshop, participants will be able to:
 
 **Wellcome Connecting Science Team**
 
-- [Michelle Bishop](https://www.wellcomeconnectingscience.org/person/bishop-michelle/#), Associate Director of Learning and Training at Wellcome Connecting Science
-- [Alice Matimba](https://uk.linkedin.com/in/alice-matimba-8805177), Head of Training and Global Capacity
-- [Amy Pass](https://www.wellcomeconnectingscience.org/person/pass-amy/), Events Manager
-- [Karon Chapell](https://www.wellcomeconnectingscience.org/person/chappell-karon/), Events Organiser
-- [Nicola Stevens](https://www.wellcomeconnectingscience.org/person/stevens-nicola/), Events Organiser
-- [Scarlett Storr](https://www.wellcomeconnectingscience.org/person/storr-scarlett/), Events Organiser
+- [Andy Mains](https://uk.linkedin.com/in/andy-mains-48668b1a3), Education Developer
 - [Liã Barbara Arruda](https://www.wellcomeconnectingscience.org/person/barbara-arruda-lia/), Education Developer
-- [Isabela Malta](https://www.wellcomeconnectingscience.org/person/malta-isabela/), Assistant Overseas Courses Manager
-- [Monica Abrudan](https://www.linkedin.com/in/monica-abrudan-09bb34a/?originalSubdomain=uk), Bioinformatics Education Developer
-- [Martin Aslett](https://coursesandconferences.wellcomeconnectingscience.org/about-us/the-team/), Informatics Manager
-- [Vaishnavi Vikas Gangadhar](https://www.wellcomeconnectingscience.org/person/gangadhar-vaishnavi/), Informatics Technical Officer
-- [Cassandra Soo](https://uk.linkedin.com/in/cassandra-claire-soo-b3783277/ms?trk=people-guest_people_search-card), Laboratory Courses Manager
-- [Aaron Dean](https://uk.linkedin.com/in/aaron-dean-5b5a21163), Laboratory Technical Officer
-- [Christopher Adamson](https://www.wellcomeconnectingscience.org/person/adamson-chris/), Laboratory Operations Officer
+- [Vaishnavi Vikas Gangadhar](https://www.wellcomeconnectingscience.org/person/gangadhar-vaishnavi/), Informatics Technical Developer
+- [Cassandra Soo](https://uk.linkedin.com/in/cassandra-claire-soo-b3783277/ms?trk=people-guest_people_search-card), Laboratory Lead Developer
+- [Christopher Adamson](https://www.wellcomeconnectingscience.org/person/adamson-chris/), Laboratory Operations and Technical Developer
 
 ******
 
