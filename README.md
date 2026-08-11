@@ -46,10 +46,14 @@ By the end of the workshop, participants will be able to:
 - Apply and adapt learner-centred training approaches to improve learning experiences.
 - Co-develop and sustain an African trainer network for ongoing collaboration.
 
-**Course Instructors**      
+**Course Facilators**      
 
-- [Instructor Full Name](Add link), Add Affliation here
-- [Instructor Full Name](Add link), Add Affliation here
+- Augusto Messa Jr., Centro de Investigação em Saúde de Manhiça (CISM), Mozambique
+- Idrissa Diawara, Université Mohammed VI des Sciences et de la Santé (UM6SS), Morocco
+- Kanny Diallo, Centre Suisse de Recherche Scientifique (CSRS), Côte d'Ivoire
+- Luria Leslie Founou, Research Institute of the Centre of Expertise and Biological Diagnostic of Cameroon (CEDBCAM-RI), Cameroon
+- Simon Amoikon Tiemele, Centre Suisse de Recherche Scientifique (CSRS), Côte d'Ivoire
+- Vinie Kouamou, Infectious Diseases Research Laboratory (ACRN), Zimbabwe
 
 **Wellcome Connecting Science Team**
 
